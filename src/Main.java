@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("Введіть другий катет трикутника");
 		int b1 = sc.nextInt();
 
-		System.out.println("Гіпотенуза = " +Math.sqrt(Math.pow(a1, 2)+Math.pow(b1, 2)));
+		System.out.println("Гіпотенуза = " + Math.sqrt(Math.pow(a1, 2)+Math.pow(b1, 2)));
 
 		}
 
